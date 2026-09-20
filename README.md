@@ -97,15 +97,6 @@ int main()
 
 ---
 
-## Time and Space Complexity
-
-| Method | Best Case | Average Case | Worst Case | Space |
-|---------|-----------|--------------|------------|-------|
-| Recursive Binary Search | O(1) | O(log n) | O(log n) | O(log n) |
-| Iterative Binary Search | O(1) | O(log n) | O(log n) | O(1) |
-
----
-
 ## Applications
 
 1. Used in searching elements within sorted databases and arrays.
