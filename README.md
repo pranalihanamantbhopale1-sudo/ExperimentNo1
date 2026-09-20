@@ -1,4 +1,4 @@
-# Experiment No. 1
+<img width="1600" height="534" alt="output_binary_search jpeg" src="https://github.com/user-attachments/assets/4f7c2723-12b1-425e-a894-704abee20152" /># Experiment No. 1
 
 ## Title
 **Binary Search Techniques Using Array and Recursion**
@@ -113,7 +113,8 @@ int main()
 
 > Save the output image in your repository as **output_binary_search.jpeg**
 
-![Output](output_binary_search.jpeg)
+![Output](![Uploading output_binary_search.jpeg.jpeg…]()
+)
 
 ---
 
