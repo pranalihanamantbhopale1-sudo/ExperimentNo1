@@ -17,26 +17,6 @@ To implement Binary Search using **Recursion** and **Iteration** on a sorted arr
 
 ---
 
-## Algorithm
-
-### Recursive Binary Search
-1. Start with `low = 0` and `high = n-1`.
-2. Find the middle element.
-3. If the key equals the middle element, return its index.
-4. If the key is smaller, search the left half recursively.
-5. Otherwise, search the right half recursively.
-6. If `low > high`, return `-1`.
-
-### Iterative Binary Search
-1. Initialize `low` and `high`.
-2. Repeat until `low <= high`.
-3. Find the middle element.
-4. Compare the key with the middle element.
-5. Update `low` or `high`.
-6. Return index if found, otherwise `-1`.
-
----
-
 ## Program
 
 ```c
